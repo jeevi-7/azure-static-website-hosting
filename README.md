@@ -17,8 +17,10 @@ Azure automatically gives a public endpoint where the website becomes available 
 *Deployed website to Azure’s global endpoint
 *Tested deployment
 ## Screenshots
+
 ## Image1
 <img width="1353" height="461" alt="staticimages" src="https://github.com/user-attachments/assets/b3c5081d-d1fc-4505-8051-b1cdae850369" />
+
 ## Image2
 <img width="1366" height="449" alt="$webimages" src="https://github.com/user-attachments/assets/94400efa-336b-448b-8427-66d547d29470" />
 
